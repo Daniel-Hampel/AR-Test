@@ -1,3 +1,6 @@
+MauiAppWebViewHandlers.Platforms.Android.MyWebChromeClient, AR-Test;crc64efa2e1e5aefb0d01.MyWebChromeClient
+MauiAppWebViewHandlers.Platforms.Android.MyWebChromeClient;crc64efa2e1e5aefb0d01.MyWebChromeClient
+mauiappwebviewhandlers.platforms.android.MyWebChromeClient;crc64efa2e1e5aefb0d01.MyWebChromeClient
 AR_Test.MainActivity, AR-Test;crc643d4ed40c0cb79a14.MainActivity
 AR_Test.MainActivity;crc643d4ed40c0cb79a14.MainActivity
 ar_test.MainActivity;crc643d4ed40c0cb79a14.MainActivity
